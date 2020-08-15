@@ -1,5 +1,5 @@
 ## Salutations! Welcome to my GitHub profile.
-I am an incoming Master's student at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/) where I will be working under the supervision of [Yves Lucet](link) and [Warren Hare](link). I will be pursuing an MSc. in (applied) mathematics. I graduated *virtually* from McGill University with a BSc. in mathematics and computer science in the spring of 2020.
+I am an incoming Master's student at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/) where I will be working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/). I will be pursuing an MSc. in (applied) mathematics. I graduated *virtually* from McGill University with a BSc. in mathematics and computer science in the spring of 2020.
 
 ### Research
 
@@ -7,8 +7,8 @@ I am an incoming Master's student at the University of British Columbia [Okanaga
 
 *Upcoming*: Using optimization techniques for road design applications
 #### Past (includes):
-- Optimal Transporation (see [here]())
-    - Worked with [Adam M. Oberman](https://adamoberman.net) and [Levon Nurbekyan](link) to develop an ad hoc algorithm for approximating the OT solution in &#8477;<sup>n</sup>, n > 1; it fares well empirically using common distance metrics
+- Optimal Transporation (see [here](https://link.springer.com/article/10.1007/s10915-020-01143-x))
+    - Worked with [Adam M. Oberman](https://adamoberman.net) and [Levon Nurbekyan](https://www.researchgate.net/profile/Levon_Nurbekyan2) to develop an ad hoc algorithm for approximating the OT solution in R<sup>n</sup>, n > 1; it fares well empirically using common distance metrics
     - Further details can be found below (to come)
 - Machine Learning: adversarial robustness + attacks
 
