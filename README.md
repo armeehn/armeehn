@@ -1,5 +1,5 @@
 ## Salutations! Welcome to my GitHub profile.
-I am an incoming Master's student at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/) where I will be working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/). I will be pursuing an MSc. in (applied) mathematics. I graduated *virtually* from McGill University with a BSc. in mathematics and computer science in the spring of 2020.
+I am an incoming Master's student at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/) where I will be working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/). I will be pursuing an MSc. in (applied) mathematics. I recently graduated *virtually* from McGill University with a BSc. in mathematics and computer science in the spring of 2020.
 
 ### Research
 
