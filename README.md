@@ -25,4 +25,4 @@ I am an incoming Master's student at the University of British Columbia [Okanaga
 - One can obtain more information about my work, interests and other particulars on my [personal website](https://alexander.iannantuono.org)
 
 ### Contact
-Please contact me via the email that is present on my account profile.
+Please contact me via the email that is present on my website.
