@@ -3,9 +3,10 @@ I am an incoming Master's student at the University of British Columbia [Okanaga
 
 ### Research
 
-**Current**: Various research topics in the realm of Deep Learning
+**Current**: Various research topics in the realm of Deep Learning: confidence metrics + novel SGD testing.
 
-*Upcoming*: Using optimization techniques for road design applications
+*Upcoming*: Optimization for road design applications
+
 #### Past (includes):
 - Optimal Transporation (see [here](https://link.springer.com/article/10.1007/s10915-020-01143-x))
     - Worked with [Adam M. Oberman](https://adamoberman.net) and [Levon Nurbekyan](https://www.researchgate.net/profile/Levon_Nurbekyan2) to develop an ad hoc algorithm for approximating the OT solution in R<sup>n</sup>, n > 1; it fares well empirically using common distance metrics
