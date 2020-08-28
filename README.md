@@ -9,7 +9,7 @@ I am an incoming Master's student at the University of British Columbia [Okanaga
 
 #### Past (includes):
 - Optimal Transporation (see [here](https://link.springer.com/article/10.1007/s10915-020-01143-x))
-    - Worked with [Adam M. Oberman](https://adamoberman.net) and [Levon Nurbekyan](https://www.researchgate.net/profile/Levon_Nurbekyan2) to develop an ad hoc algorithm for approximating the OT solution in R<sup>n</sup>, n > 1; it fares well empirically using common distance metrics
+    - I worked with [Adam M. Oberman](https://adamoberman.net) and [Levon Nurbekyan](https://www.researchgate.net/profile/Levon_Nurbekyan2) to develop an ad hoc algorithm for approximating the OT solution in R<sup>n</sup>, n > 1; it fares well empirically using common distance metrics such at \U+2113<sub>1</sub>, l<sub>2</sub> and l<sub>&infin;</sub>
     - Further details can be found below (to come)
 - Machine Learning: adversarial robustness + attacks
 
