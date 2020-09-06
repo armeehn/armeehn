@@ -1,5 +1,5 @@
 ## Salutations
-I am an incoming Master's student at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/) where I will be working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/). I will be pursuing an MSc in (applied) mathematics. I graduated *virtually* from McGill University with a BSc in mathematics and computer science in the spring of 2020.
+I am an incoming Master's student at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/) where I will be working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/). I am current a MSc student in (applied) mathematics. I graduated *virtually* from McGill University with a BSc in mathematics and computer science in the spring of 2020.
 
 ### Research
 
@@ -13,6 +13,8 @@ I am an incoming Master's student at the University of British Columbia [Okanaga
     - Further details can be found below **(to come)**
 - Machine Learning: adversarial robustness + attacks
 
+I have been working with various awesome people in the [Oberman Lab](https://www.adamoberman.net/oberman-lab.html) research group since 2018, which is headed by Prof. [Adam M. Oberman](https://adamoberman.net)
+
 ### Interests
 - Optimization
 - Optimal Transport
@@ -20,7 +22,7 @@ I am an incoming Master's student at the University of British Columbia [Okanaga
 - Machine Learning
 - Distributed + Parallel Computing
 
-While there are no specific topics present in the list, I hope to further specify as I develop an interest (in case this is being read before I update it)!
+While there are no specific topics present in the list, I hope to further specify as I develop stronger interests (in case this is being read before I update it)!
 
 ### Other Information
 
