@@ -1,9 +1,9 @@
 ## Salutations
-I am an incoming Master's student at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/) where I will be working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/). I will be pursuing an MSc in (applied) mathematics. I recently graduated *virtually* from McGill University with a BSc in mathematics and computer science in the spring of 2020.
+I am an incoming Master's student at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/) where I will be working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/). I will be pursuing an MSc in (applied) mathematics. I graduated *virtually* from McGill University with a BSc in mathematics and computer science in the spring of 2020.
 
 ### Research
 
-**Current**: Various research topics in the realm of Deep Learning: confidence metrics + novel SGD testing.
+~**Current**~: Various research topics in the realm of Deep Learning: confidence metrics + novel SGD testing. Summer research is wrapping up!
 
 *Upcoming*: Optimization for road design applications
 
@@ -20,9 +20,11 @@ I am an incoming Master's student at the University of British Columbia [Okanaga
 - Machine Learning
 - Distributed + Parallel Computing
 
+While there are no specific topics present in the list, I hope to further specify as I develop an interest (in case this is being read before I update it)!
+
 ### Other Information
 
-- In my spare time, I enjoy tinkering, the outdoors (mainly through skiing and cycling) and listening to music. I would be pleased to work on some projects in the vain of [N-O-D-E](https://n-o-d-e.net/)'s, creating customized software for products that I use such a Garmin Edge for cycling or a Casio watch.
+- In my spare time, I enjoy tinkering, the outdoors (mainly through skiing and cycling) and listening to music. I would be pleased to work on some projects in the vain of [N-O-D-E](https://n-o-d-e.net/)'s, creating customized software for products that I use such a Garmin Edge for cycling or a Casio watch. Merging interests of mine is also fun itself.
 - One can obtain more information about my work, interests and other particulars on my [personal website](https://alexander.iannantuono.org)
 
 ### Contact
