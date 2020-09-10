@@ -1,5 +1,5 @@
 ## Salutations
-I am an incoming Master's student at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/) where I will be working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/). I am currently a MSc student in (applied) mathematics. I graduated *virtually* from McGill University with a BSc in mathematics and computer science in the spring of 2020.
+I am a Master's student in mathematics at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/) where I will be working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/). I graduated *virtually* from McGill University with a BSc in mathematics and computer science in the spring of 2020.
 
 ### Research
 
