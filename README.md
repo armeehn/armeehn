@@ -3,9 +3,11 @@ I am a Master's student in mathematics at the University of British Columbia [Ok
 
 ### Research
 
-~**Current**~: Various research topics in the realm of Deep Learning: confidence metrics + novel SGD testing. *Summer research is wrapping up!*
+~**Current**~: Nothing for now!
 
-*Upcoming*: Optimization for road design applications
+Various research topics in the realm of Deep Learning: confidence metrics + novel SGD testing. ~*Summer research is wrapping up!*~ That's a wrap!
+
+*In the near future*: Optimization for road design applications
 
 #### Past (includes):
 - Optimal Transporation (see [here](https://link.springer.com/article/10.1007/s10915-020-01143-x))
