@@ -1,9 +1,9 @@
 ## Salutations
-I am a Master's student in mathematics at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/) where I will be working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/). I graduated *virtually* from McGill University with a BSc in mathematics and computer science in the spring of 2020.
+I am a Master's student in mathematics at the University of British Columbia [Okanagan campus](https://ok.ubc.ca/). I am working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/). I graduated *virtually* from McGill University with a BSc in mathematics and computer science in the spring of 2020.
 
 ### Research
 
-~**Current**~: Nothing for now!
+**Current**: Nothing for now!
 
 Various research topics in the realm of Deep Learning: confidence metrics + novel SGD testing. ~*Summer research is wrapping up!*~ That's a wrap!
 
@@ -15,7 +15,7 @@ Various research topics in the realm of Deep Learning: confidence metrics + nove
     - Further details can be found below **(to come)**
 - Machine Learning: adversarial robustness + attacks
 
-I have been working with awesome people in the [Oberman Lab](https://www.adamoberman.net/oberman-lab.html) research group since 2018, which is headed by Prof. Oberman.
+I have been working with awesome people in the [Oberman Lab](https://www.adamoberman.net/oberman-lab.html) research group since 2018.
 
 ### Interests
 - Optimization
