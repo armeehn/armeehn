@@ -13,7 +13,7 @@ I am a Master's student in mathematics at the University of British Columbia [Ok
     - Further details can be found below **(to come)**
 - Machine Learning: adversarial robustness + attacks
 
-I have been working with various awesome people in the [Oberman Lab](https://www.adamoberman.net/oberman-lab.html) research group since 2018, which is headed by Prof. Oberman.
+I have been working with awesome people in the [Oberman Lab](https://www.adamoberman.net/oberman-lab.html) research group since 2018, which is headed by Prof. Oberman.
 
 ### Interests
 - Optimization
