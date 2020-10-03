@@ -3,13 +3,12 @@ I am a Master's student in mathematics at the University of British Columbia [Ok
 
 ### Research
 
-**Current**: Nothing for now!
-
-Various research topics in the realm of Deep Learning: confidence metrics + novel SGD testing. ~*Summer research is wrapping up!*~ That's a wrap!
+**Current**: Nothing for now! Just taking neat classes...
 
 *In the near future*: Optimization for road design applications
 
 #### Past (includes):
+- Confidence metrics in DNNs
 - Optimal Transporation (see [here](https://link.springer.com/article/10.1007/s10915-020-01143-x))
     - I worked with [Adam M. Oberman](https://adamoberman.net) and [Levon Nurbekyan](https://www.researchgate.net/profile/Levon_Nurbekyan2) to develop an ad hoc algorithm for approximating the OT solution in R<sup>n</sup>, n > 1; it fares well empirically using common distance metrics such at &#8467;<sub>1</sub>, &#8467;<sub>2</sub>, &#8467;<sub>2</sub><sup>2</sup> and &#8467;<sub>&infin;</sub>
     - Further details can be found below **(to come)**
