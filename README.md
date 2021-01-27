@@ -29,6 +29,7 @@ While there are no specific topics present in the list, I hope to further specif
 
 - In my spare time, I enjoy tinkering, the outdoors (mainly through skiing and cycling) and listening to music. I would be pleased to work on some projects in the vain of [N-O-D-E](https://n-o-d-e.net/)'s, creating customized software for products that I use such a Garmin Edge for cycling or a Casio watch. Merging interests of mine is also fun itself.
 - One can obtain more information about my work, interests and other particulars on my [personal website](https://alexander.iannantuono.org)
+- If you ever are wondering how to pronounce my surname, this is how it is written in IPA: ['ja.nan.two.no].
 
 ### Contact
 Please contact me via the email that is present on my website.
