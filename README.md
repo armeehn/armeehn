@@ -1,9 +1,9 @@
-Salutations! I'm an MSc student in mathematics at the UBC Okanagan, working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/).
+Salutations! I'm an MSc student in mathematics at UBC Okanagan, working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/).
 I completed my joint BSc at McGill in mathematics and computer science.
 
 ### Research
 
-**Current**: Using optimization for road design applications 
+**Current**: Penalty methods for optimizing road design applications 
 
 **Past**:
 - Confidence metrics in DNNs
