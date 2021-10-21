@@ -1,4 +1,4 @@
-Salutations! I'm an MSc student in mathematics at UBC Okanagan, working under the supervision of [Yves Lucet](https://people.ok.ubc.ca/ylucet/).
+Salutations! I'm an MSc student in mathematics at UBC Okanagan, working under the supervision of Dr. [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and Dr. Warren Hare.
 I completed my joint BSc at McGill in mathematics and computer science.
 
 ### Research
@@ -22,7 +22,7 @@ Member of the [Oberman Lab](https://www.adamoberman.net/oberman-lab.html) resear
 
 #### Other
 - I like tinkering, the outdoors (mainly through skiing and cycling).
-- The pronunciation of my surname ia written in IPA as [ja.nan.'two.no].
+- The pronunciation of my surname is written in IPA as [ja.nan.'two.no].
 
 ### Contact
 Please contact me via the email that is present on my website.
