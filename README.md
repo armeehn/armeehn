@@ -1,7 +1,7 @@
 Salutations! 
 
 I'm an MSc student in mathematics at UBC - Okanagan, working under the supervision of [Dr. Yves Lucet](https://people.ok.ubc.ca/ylucet/) and Dr. Warren Hare.
-Before this, I did my joint BSc in mathematics and computer scienc at McGille.
+Before this, I did my joint BSc in mathematics and computer science at McGill.
 
 ### Research
 
