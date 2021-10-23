@@ -1,28 +1,26 @@
-Salutations! I'm an MSc student in mathematics at UBC Okanagan, working under the supervision of Dr. [Yves Lucet](https://people.ok.ubc.ca/ylucet/) and Dr. Warren Hare.
-I completed my joint BSc at McGill in mathematics and computer science.
+Salutations! 
+
+I'm an MSc student in mathematics at UBC - Okanagan, working under the supervision of [Dr. Yves Lucet](https://people.ok.ubc.ca/ylucet/) and Dr. Warren Hare.
+Before this, I did my joint BSc in mathematics and computer scienc at McGille.
 
 ### Research
 
-**Current**: Penalty methods for optimizing road design applications 
+Current: Using penalty methods in road design applications
 
-**Past**:
+Past:
 - Confidence metrics in DNNs
-- Optimal Transportation (see [here](https://link.springer.com/article/10.1007/s10915-020-01143-x)) with [Adam Oberman](https://adamoberman.net) and [Levon Nurbekyan](https://www.researchgate.net/profile/Levon_Nurbekyan2)  
+- Optimal Transportation (see [here](https://link.springer.com/article/10.1007/s10915-020-01143-x))
 - Machine Learning: adversarial robustness + attacks
 
-Member of the [Oberman Lab](https://www.adamoberman.net/oberman-lab.html) research group (2018 - 2020).
-
-### Interests
-
-#### Academic
+#### Academic Interests
 - Applications in Optimization
 - Optimal Transport
 - Numerical Methods
 - Distributed Computing
 
-#### Other
-- I like tinkering, the outdoors (mainly through skiing and cycling).
+#### Misc.
+- I like tinkering and the outdoors (mainly through skiing and cycling).
 - The pronunciation of my surname is written in IPA as [ja.nan.'two.no].
 
 ### Contact
-Please contact me via the email that is present on my website.
+Please contact me via email.
