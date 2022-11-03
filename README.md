@@ -2,7 +2,7 @@ Hi!
 
 I'm a software developer at Softree Technical Systems, where I develop road design/modelling software.
 
-I obtained my MSc in mathematics from UBC - Okanagan, working under [Dr. Yves Lucet](https://people.ok.ubc.ca/ylucet/) and Dr. Warren Hare, and BSc in mathematics and computer science at McGill.
+I obtained my MSc. in mathematics from UBC - Okanagan, working under [Dr. Yves Lucet](https://people.ok.ubc.ca/ylucet/) and Dr. Warren Hare, and my BSc. in mathematics and computer science at McGill.
 
 ### Research
 
